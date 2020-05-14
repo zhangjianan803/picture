@@ -1,5 +1,5 @@
 p3.
----
+===
 |step|N'|D(t),p(t)|D(u),p(u)|D(v),p(v)|D(w),p(w)|D(y),p(y)|D(z),p(z)|
 
 |-|-|-|-|-|-|-|-|
@@ -19,7 +19,7 @@ p3.
 |6|xvuwytz|7,v|6,v|3,x|6,x|6,x|8,x|  
 
 p5.
----
+===
 |u|v|x|y|z|
 
 |-|-|-|-|-|-|
@@ -30,6 +30,7 @@ p5.
 
 |z|∞|6|2|∞|0|  
 
+---  
 |u|v|x|y|z|
 
 |-|-|-|-|-|-|
@@ -39,7 +40,8 @@ p5.
 |x|∞|3|0|3|2|
 
 |z|7|5|2|5|0|  
-
+  
+---   
 |u|v|x|y|z|
 
 |-|-|-|-|-|-|
@@ -50,7 +52,7 @@ p5.
 
 |z|6|5|2|5|0|  
 
-
+---  
 |u|v|x|y|z|
 
 |-|-|-|-|-|-|
@@ -62,5 +64,5 @@ p5.
 |z|6|5|2|5|0|  
 
 p9.
------
+===
 No. Decreasing link cost won’t cause a loop. Because the next-hop relation of between two nodes of that link will still work.
